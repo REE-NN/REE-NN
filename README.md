@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @REE-NN
-- 👀 I’m interested in Test Automation in Java
+- 👀 I’m interested in QA Automation (Java)
 - 📫 How to reach me https://t.me/ree_telegram
 
 <!---
